@@ -14,6 +14,6 @@ The webpage includes functional redirecting links, but the images are not displa
 2. **Update Image Paths in HTML:**
    Replace the current local file paths in the HTML code with relative paths that point to the `images` folder. For example:
 
-   <img src="images/EBay_logo.png" alt="eBay Logo">
+   <img src="Downloads/EBay_logo.png" alt="eBay Logo">
 
    The redirecting links and the rest of the webpage functionality remain unaffected.
